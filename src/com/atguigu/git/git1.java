@@ -13,5 +13,6 @@ public class git1 {
 		System.out.println(9);
 		System.out.println(10);
 		System.out.println(666666);
+		System.out.println(88888888);
 	}
 }
